@@ -11,11 +11,11 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mayank-sharma-a24833322?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/Mayanksharma2005/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -113,7 +113,7 @@ An AI-powered predictive analytics platform designed to identify and forecast la
 
 **Engineering focus:** Machine Learning · Predictive Analytics · GIS · Full Stack Development
 
-[Repository](https://github.com/Mayank-Sharma-05?tab=repositories)
+[Repository](https://github.com/Mayank-Sharma-05/bhoomi-sanket)
 
 ---
 
@@ -135,7 +135,7 @@ A civic issue reporting platform that enables citizens to submit, track and mana
 
 **Engineering focus:** Backend Development · REST APIs · Geospatial Visualization
 
-[Repository](https://github.com/Mayank-Sharma-05?tab=repositories)
+[Repository](https://github.com/Mayank-Sharma-05/Civic-Issue-Tracker)
 
 ---
 
@@ -155,7 +155,7 @@ A full-stack trading analytics platform focused on processing market data and vi
 
 **Engineering focus:** Full Stack Development · API Engineering · Data Visualization
 
-[Repository](https://github.com/Mayank-Sharma-05?tab=repositories)
+[Repository](https://github.com/Mayank-Sharma-05/TradeVision)
 
 ---
 
@@ -306,7 +306,7 @@ open_to:
 &nbsp; · &nbsp;
 <a href="https://github.com/Mayank-Sharma-05">GITHUB</a>
 &nbsp; · &nbsp;
-<a href="YOUR_LINKEDIN_URL">LINKEDIN</a>
+<a href="https://www.linkedin.com/in/mayank-sharma-a24833322?utm_source=share_via&utm_content=profile&utm_medium=member_android">LINKEDIN</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=100&section=footer"/>
 
