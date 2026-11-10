@@ -1,0 +1,228 @@
+
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111A20"/>
+      <stop offset="1" stop-color="#080D11"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#16C79A"/>
+      <stop offset="1" stop-color="#087F69"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(950 130) rotate(90) scale(220 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16C79A" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#16C79A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8BA49B" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#accent)"/>
+
+  <circle cx="1010" cy="160" r="126" stroke="#16C79A" stroke-opacity=".12"/>
+  <circle cx="1010" cy="160" r="94" stroke="#16C79A" stroke-opacity=".16"/>
+  <circle cx="1010" cy="160" r="62" stroke="#16C79A" stroke-opacity=".2"/>
+
+  <path d="M850 230L1010 70L1170 230" stroke="#16C79A" stroke-opacity=".3" stroke-width="1.5"/>
+  <path d="M910 260L1010 160L1110 260" stroke="#16C79A" stroke-opacity=".2" stroke-width="1.5"/>
+
+  <circle cx="1010" cy="160" r="5" fill="#16C79A"/>
+  <circle cx="1010" cy="34" r="3" fill="#16C79A"/>
+  <circle cx="1136" cy="160" r="3" fill="#16C79A"/>
+  <circle cx="884" cy="160" r="3" fill="#16C79A"/>
+
+  <rect x="66" y="62" width="280" height="29" rx="14.5" fill="#16C79A" fill-opacity=".1" stroke="#16C79A" stroke-opacity=".35"/>
+  <circle cx="83" cy="76.5" r="4" fill="#16C79A"/>
+  <text x="96" y="81" fill="#16C79A" font-family="monospace" font-size="12" letter-spacing="1">SOFTWARE ENGINEERING | AI/ML</text>
+
+  <text x="64" y="160" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Mayank Sharma</text>
+
+  <text x="68" y="200" fill="#A9B7B2" font-family="Arial, Helvetica, sans-serif" font-size="20">Building software. Exploring intelligence.</text>
+
+  <rect x="68" y="230" width="34" height="3" rx="1.5" fill="#16C79A"/>
+  <text x="114" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">FULL STACK</text>
+  <circle cx="220" cy="231" r="3" fill="#16C79A"/>
+  <text x="238" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">AI / ML</text>
+  <circle cx="320" cy="231" r="3" fill="#16C79A"/>
+  <text x="338" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">SOFTWARE ENGINEERING</text>
+
+  <text x="68" y="283" fill="#71847D" font-family="monospace" font-size="12">BENNETT UNIVERSITY  /  COMPUTER SCIENCE &amp; ENGINEERING</text>
+
+  <text x="1090" y="290" fill="#16C79A" fill-opacity=".8" font-family="monospace" font-size="12" text-anchor="end">01 — 2026</text>
+</svg>
+
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111A20"/>
+      <stop offset="1" stop-color="#080D11"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#16C79A"/>
+      <stop offset="1" stop-color="#087F69"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(950 130) rotate(90) scale(220 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16C79A" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#16C79A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8BA49B" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#accent)"/>
+
+  <circle cx="1010" cy="160" r="126" stroke="#16C79A" stroke-opacity=".12"/>
+  <circle cx="1010" cy="160" r="94" stroke="#16C79A" stroke-opacity=".16"/>
+  <circle cx="1010" cy="160" r="62" stroke="#16C79A" stroke-opacity=".2"/>
+
+  <path d="M850 230L1010 70L1170 230" stroke="#16C79A" stroke-opacity=".3" stroke-width="1.5"/>
+  <path d="M910 260L1010 160L1110 260" stroke="#16C79A" stroke-opacity=".2" stroke-width="1.5"/>
+
+  <circle cx="1010" cy="160" r="5" fill="#16C79A"/>
+  <circle cx="1010" cy="34" r="3" fill="#16C79A"/>
+  <circle cx="1136" cy="160" r="3" fill="#16C79A"/>
+  <circle cx="884" cy="160" r="3" fill="#16C79A"/>
+
+  <rect x="66" y="62" width="280" height="29" rx="14.5" fill="#16C79A" fill-opacity=".1" stroke="#16C79A" stroke-opacity=".35"/>
+  <circle cx="83" cy="76.5" r="4" fill="#16C79A"/>
+  <text x="96" y="81" fill="#16C79A" font-family="monospace" font-size="12" letter-spacing="1">SOFTWARE ENGINEERING | AI/ML</text>
+
+  <text x="64" y="160" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Mayank Sharma</text>
+
+  <text x="68" y="200" fill="#A9B7B2" font-family="Arial, Helvetica, sans-serif" font-size="20">Building software. Exploring intelligence.</text>
+
+  <rect x="68" y="230" width="34" height="3" rx="1.5" fill="#16C79A"/>
+  <text x="114" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">FULL STACK</text>
+  <circle cx="220" cy="231" r="3" fill="#16C79A"/>
+  <text x="238" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">AI / ML</text>
+  <circle cx="320" cy="231" r="3" fill="#16C79A"/>
+  <text x="338" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">SOFTWARE ENGINEERING</text>
+
+  <text x="68" y="283" fill="#71847D" font-family="monospace" font-size="12">BENNETT UNIVERSITY  /  COMPUTER SCIENCE &amp; ENGINEERING</text>
+
+  <text x="1090" y="290" fill="#16C79A" fill-opacity=".8" font-family="monospace" font-size="12" text-anchor="end">01 — 2026</text>
+</svg>
+
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111A20"/>
+      <stop offset="1" stop-color="#080D11"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#16C79A"/>
+      <stop offset="1" stop-color="#087F69"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(950 130) rotate(90) scale(220 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16C79A" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#16C79A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8BA49B" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#accent)"/>
+
+  <circle cx="1010" cy="160" r="126" stroke="#16C79A" stroke-opacity=".12"/>
+  <circle cx="1010" cy="160" r="94" stroke="#16C79A" stroke-opacity=".16"/>
+  <circle cx="1010" cy="160" r="62" stroke="#16C79A" stroke-opacity=".2"/>
+
+  <path d="M850 230L1010 70L1170 230" stroke="#16C79A" stroke-opacity=".3" stroke-width="1.5"/>
+  <path d="M910 260L1010 160L1110 260" stroke="#16C79A" stroke-opacity=".2" stroke-width="1.5"/>
+
+  <circle cx="1010" cy="160" r="5" fill="#16C79A"/>
+  <circle cx="1010" cy="34" r="3" fill="#16C79A"/>
+  <circle cx="1136" cy="160" r="3" fill="#16C79A"/>
+  <circle cx="884" cy="160" r="3" fill="#16C79A"/>
+
+  <rect x="66" y="62" width="280" height="29" rx="14.5" fill="#16C79A" fill-opacity=".1" stroke="#16C79A" stroke-opacity=".35"/>
+  <circle cx="83" cy="76.5" r="4" fill="#16C79A"/>
+  <text x="96" y="81" fill="#16C79A" font-family="monospace" font-size="12" letter-spacing="1">SOFTWARE ENGINEERING | AI/ML</text>
+
+  <text x="64" y="160" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Mayank Sharma</text>
+
+  <text x="68" y="200" fill="#A9B7B2" font-family="Arial, Helvetica, sans-serif" font-size="20">Building software. Exploring intelligence.</text>
+
+  <rect x="68" y="230" width="34" height="3" rx="1.5" fill="#16C79A"/>
+  <text x="114" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">FULL STACK</text>
+  <circle cx="220" cy="231" r="3" fill="#16C79A"/>
+  <text x="238" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">AI / ML</text>
+  <circle cx="320" cy="231" r="3" fill="#16C79A"/>
+  <text x="338" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">SOFTWARE ENGINEERING</text>
+
+  <text x="68" y="283" fill="#71847D" font-family="monospace" font-size="12">BENNETT UNIVERSITY  /  COMPUTER SCIENCE &amp; ENGINEERING</text>
+
+  <text x="1090" y="290" fill="#16C79A" fill-opacity=".8" font-family="monospace" font-size="12" text-anchor="end">01 — 2026</text>
+</svg>
+
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111A20"/>
+      <stop offset="1" stop-color="#080D11"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#16C79A"/>
+      <stop offset="1" stop-color="#087F69"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(950 130) rotate(90) scale(220 300)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16C79A" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#16C79A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#8BA49B" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+
+  <rect x="0" y="0" width="8" height="320" rx="4" fill="url(#accent)"/>
+
+  <circle cx="1010" cy="160" r="126" stroke="#16C79A" stroke-opacity=".12"/>
+  <circle cx="1010" cy="160" r="94" stroke="#16C79A" stroke-opacity=".16"/>
+  <circle cx="1010" cy="160" r="62" stroke="#16C79A" stroke-opacity=".2"/>
+
+  <path d="M850 230L1010 70L1170 230" stroke="#16C79A" stroke-opacity=".3" stroke-width="1.5"/>
+  <path d="M910 260L1010 160L1110 260" stroke="#16C79A" stroke-opacity=".2" stroke-width="1.5"/>
+
+  <circle cx="1010" cy="160" r="5" fill="#16C79A"/>
+  <circle cx="1010" cy="34" r="3" fill="#16C79A"/>
+  <circle cx="1136" cy="160" r="3" fill="#16C79A"/>
+  <circle cx="884" cy="160" r="3" fill="#16C79A"/>
+
+  <rect x="66" y="62" width="280" height="29" rx="14.5" fill="#16C79A" fill-opacity=".1" stroke="#16C79A" stroke-opacity=".35"/>
+  <circle cx="83" cy="76.5" r="4" fill="#16C79A"/>
+  <text x="96" y="81" fill="#16C79A" font-family="monospace" font-size="12" letter-spacing="1">SOFTWARE ENGINEERING | AI/ML</text>
+
+  <text x="64" y="160" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Mayank Sharma</text>
+
+  <text x="68" y="200" fill="#A9B7B2" font-family="Arial, Helvetica, sans-serif" font-size="20">Building software. Exploring intelligence.</text>
+
+  <rect x="68" y="230" width="34" height="3" rx="1.5" fill="#16C79A"/>
+  <text x="114" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">FULL STACK</text>
+  <circle cx="220" cy="231" r="3" fill="#16C79A"/>
+  <text x="238" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">AI / ML</text>
+  <circle cx="320" cy="231" r="3" fill="#16C79A"/>
+  <text x="338" y="237" fill="#D0DAD6" font-family="monospace" font-size="14">SOFTWARE ENGINEERING</text>
+
+  <text x="68" y="283" fill="#71847D" font-family="monospace" font-size="12">BENNETT UNIVERSITY  /  COMPUTER SCIENCE &amp; ENGINEERING</text>
+
+  <text x="1090" y="290" fill="#16C79A" fill-opacity=".8" font-family="monospace" font-size="12" text-anchor="end">01 — 2026</text>
+</svg>

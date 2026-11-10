@@ -231,7 +231,13 @@ A full-stack trading analytics platform focused on processing market data and vi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mayank-Sharma-05/Mayank-Sharma-05/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayank-Sharma-05/Mayank-Sharma-05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayank-Sharma-05/Mayank-Sharma-05/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mayank-Sharma-05/Mayank-Sharma-05/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
 
 </div>
 
