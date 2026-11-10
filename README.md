@@ -14,12 +14,15 @@
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="YOUR_LEETCODE_URL">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 <a href="mailto:mayanksharma83169@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Mayank-Sharma-05">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -32,29 +35,36 @@
 
 ---
 
-## `01 / profile`
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">ABOUT ME</span></h2>
+  <p><sub><strong style="color:#16C79A;">01 — INTRODUCTION</strong></sub></p>
+</div>
 
-Computer Science and Engineering student at **Bennett University**, focused on building and shipping full-stack applications and intelligent software systems.
+I'm a Computer Science undergraduate who enjoys turning ideas into practical software. I build full-stack applications, explore AI/ML, and focus on writing solutions that are useful, scalable, and thoughtfully designed.
 
-- **Building:** Full-stack applications using Next.js, TypeScript and PostgreSQL.
-- **Learning:** AI/ML, Data Structures & Algorithms and System Design.
+- **Building:** Full-stack applications with Next.js, TypeScript and PostgreSQL.
+- **Exploring:** Machine Learning, predictive analytics and intelligent systems.
 - **Working with:** React, Next.js, FastAPI, Node.js and Supabase.
-- **Interested in:** Backend engineering, predictive analytics and scalable applications.
-- **Beyond code:** Technical Co-Head at Data Science Society, Bennett University.
+- **Focused on:** Backend engineering, Data Structures & Algorithms and System Design.
+- **Beyond code:** Technical Co-Head at the Data Science Society, Bennett University.
 
-**Education**
+<div align="left">
+  <h3><span style="color:#16C79A;">›</span> <span style="color:#F0F6FC;">ACADEMIC BACKGROUND</span></h3>
+  <p><sub><strong style="color:#16C79A;">EDUCATION</strong></sub></p>
+</div>
 
-| | |
-|:---|:---|
-| University | Bennett University |
-| Degree | B.Tech – Computer Science & Engineering |
-| Duration | August 2024 – June 2028 |
-| CGPA | 8.90 |
-| Location | Greater Noida, India |
+**B.Tech in Computer Science & Engineering**
+
+Bennett University · Greater Noida, India
+
+<sub>August 2024 — June 2028</sub>
 
 ---
 
-## `02 / technical stack`
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">TECHNICAL STACK</span></h2>
+  <p><sub><strong style="color:#16C79A;">02 — TOOLKIT</strong></sub></p>
+</div>
 
 <div align="center">
 
@@ -62,7 +72,10 @@ Computer Science and Engineering student at **Bennett University**, focused on b
 
 </div>
 
-### Core
+<div align="left">
+  <h3><span style="color:#16C79A;">›</span> <span style="color:#F0F6FC;">CORE SKILLS</span></h3>
+  <p><sub><strong style="color:#16C79A;">TECHNICAL FOUNDATION</strong></sub></p>
+</div>
 
 **Languages:** C++ · Java · Python · TypeScript · JavaScript · SQL
 
@@ -76,9 +89,15 @@ Computer Science and Engineering student at **Bennett University**, focused on b
 
 ---
 
-## `03 / featured projects`
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">FEATURED PROJECTS</span></h2>
+  <p><sub><strong style="color:#16C79A;">03 — SELECTED WORK</strong></sub></p>
+</div>
 
-### Bhoomi Sanket — Land Acquisition Delay Prediction System
+<div align="left">
+  <h3><span style="color:#16C79A;">›</span> <span style="color:#F0F6FC;">BHOOMI SANKET</span></h3>
+  <p><sub><strong style="color:#16C79A;">FEATURED PROJECT · LAND ACQUISITION ANALYTICS</strong></sub></p>
+</div>
 
 **SIH 2026 · Team Lead · 62nd Rank among 650+ teams**
 
@@ -98,7 +117,10 @@ An AI-powered predictive analytics platform designed to identify and forecast la
 
 ---
 
-### Samadhan — Civic Issue Reporting Platform
+<div align="left">
+  <h3><span style="color:#16C79A;">›</span> <span style="color:#F0F6FC;">SAMADHAN</span></h3>
+  <p><sub><strong style="color:#16C79A;">CIVIC TECHNOLOGY</strong></sub></p>
+</div>
 
 **SIH 2025 · Team Lead**
 
@@ -117,7 +139,10 @@ A civic issue reporting platform that enables citizens to submit, track and mana
 
 ---
 
-### Trade Vision — AI Trading Platform
+<div align="left">
+  <h3><span style="color:#16C79A;">›</span> <span style="color:#F0F6FC;">TRADE VISION</span></h3>
+  <p><sub><strong style="color:#16C79A;">TRADING ANALYTICS</strong></sub></p>
+</div>
 
 `Next.js` `FastAPI` `PostgreSQL`
 
@@ -134,29 +159,19 @@ A full-stack trading analytics platform focused on processing market data and vi
 
 ---
 
-## `04 / project snapshot`
-
-<div align="center">
-
-<a href="https://github.com/Mayank-Sharma-05">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Sharma-05&repo=YOUR_BHOOMI_REPO&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Mayank-Sharma-05">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Sharma-05&repo=YOUR_SAMADHAN_REPO&theme=github_dark&hide_border=true"/>
-</a>
-
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">ENGINEERING PROFILE</span></h2>
+  <p><sub><strong style="color:#16C79A;">04 — AREAS OF FOCUS</strong></sub></p>
 </div>
-
----
-
-## `05 / engineering signal`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Software_Engineering-Full_Stack-2563EB?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Machine_Learning-XGBoost-7C3AED?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Backend_Engineering-FastAPI-059669?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Database_Engineering-PostgreSQL-336791?style=for-the-badge"/>
 
 </div>
@@ -172,18 +187,27 @@ A full-stack trading analytics platform focused on processing market data and vi
 
 ---
 
-## `06 / leadership & impact`
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">LEADERSHIP & IMPACT</span></h2>
+  <p><sub><strong style="color:#16C79A;">05 — EXPERIENCE</strong></sub></p>
+</div>
 
-### Technical Co-Head — Data Science Society (DSS)
+<div align="left">
+  <h3><span style="color:#16C79A;">›</span> <span style="color:#F0F6FC;">TECHNICAL CO-HEAD · DATA SCIENCE SOCIETY</span></h3>
+  <p><sub><strong style="color:#16C79A;">LEADERSHIP</strong></sub></p>
+</div>
 
 **Bennett University · August 2026 – Present**
 
-- Lead and mentor a Junior Core Team of 25+ members.
+- Lead and mentor a Junior Core Team of 50+ members.
 - Oversee technical initiatives and society operations.
 - Coordinate technical workshops, projects and hackathons.
 - Manage task allocation and team execution.
 
-### Team Lead — Smart India Hackathon 2025
+<div align="left">
+  <h3><span style="color:#16C79A;">›</span> <span style="color:#F0F6FC;">TEAM LEAD · SMART INDIA HACKATHON 2025</span></h3>
+  <p><sub><strong style="color:#16C79A;">LEADERSHIP</strong></sub></p>
+</div>
 
 **September 2025**
 
@@ -193,7 +217,10 @@ A full-stack trading analytics platform focused on processing market data and vi
 
 ---
 
-## `07 / achievements & certifications`
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">ACHIEVEMENTS & CERTIFICATIONS</span></h2>
+  <p><sub><strong style="color:#16C79A;">06 — RECOGNITION</strong></sub></p>
+</div>
 
 - **Smart India Hackathon 2026:** 62nd Rank among 650+ teams in the Inter-College Hackathon Round.
 - **Smart India Hackathon 2025:** Selected among Top 200 teams at Bennett University Internal Hackathon.
@@ -201,7 +228,10 @@ A full-stack trading analytics platform focused on processing market data and vi
 
 ---
 
-## `08 / github activity`
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">GITHUB ACTIVITY</span></h2>
+  <p><sub><strong style="color:#16C79A;">07 — DEVELOPMENT</strong></sub></p>
+</div>
 
 <div align="center">
 
@@ -217,20 +247,12 @@ A full-stack trading analytics platform focused on processing market data and vi
 
 ---
 
-## `09 / contribution graph`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-Sharma-05&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"/>
-
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">GITHUB CONTRIBUTIONS</span></h2>
+  <p><sub><strong style="color:#16C79A;">08 — CONTRIBUTION ACTIVITY</strong></sub></p>
 </div>
 
----
-
-## `10 / contribution snake`
-
 <div align="center">
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayank-Sharma-05/Mayank-Sharma-05/output/github-contribution-grid-snake-dark.svg">
@@ -238,12 +260,14 @@ A full-stack trading analytics platform focused on processing market data and vi
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mayank-Sharma-05/Mayank-Sharma-05/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-
 </div>
 
 ---
 
-## `11 / current focus`
+<div align="left">
+  <h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">CURRENT FOCUS</span></h2>
+  <p><sub><strong style="color:#16C79A;">09 — WHAT'S NEXT</strong></sub></p>
+</div>
 
 ```yaml
 currently_learning:
@@ -272,9 +296,9 @@ open_to:
 
 <div align="center">
 
-### BUILD. LEARN. ENGINEER.
+<h2><span style="color:#16C79A;">▌</span> <span style="color:#F0F6FC;">BUILD. LEARN. ENGINEER.</span></h2>
 
-*Turning ideas into practical software solutions.*
+**Turning ideas into practical software solutions.**
 
 <br/>
 
