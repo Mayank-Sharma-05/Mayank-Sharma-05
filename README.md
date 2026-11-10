@@ -1,283 +1,233 @@
 
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:7B2CBF&height=180&section=header&text=Mayank%20Sharma&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=8"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Intelligent+Real-World+Solutions" />
+# MAYANK SHARMA
+
+### Computer Science Engineer · Full-Stack Developer · AI/ML Enthusiast
+
+`Bennett University` · `B.Tech CSE 2024–2028` · `India`
 
 <br/>
 
-<img src="https://img.shields.io/badge/Bennett%20University-CSE-6C3483?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graduation-2028-4B0082?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.90-7B2CBF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-India-512DA8?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-512DA8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="mailto:mayanksharma83169@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6C3483?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Mayank-Sharma-05">
-<img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Mayank-Sharma-05&label=PROFILE+VIEWS&color=7B2CBF&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/Mayank-Sharma-05?label=Followers&style=flat-square&color=6C3483"/>
-<img src="https://img.shields.io/github/stars/Mayank-Sharma-05?label=Total%20Stars&style=flat-square&color=512DA8"/>
+<img src="https://komarev.com/ghpvc/?username=Mayank-Sharma-05&style=flat-square&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## About Me
+## `01 / profile`
 
-I'm **Mayank Sharma**, a Computer Science and Engineering undergraduate at Bennett University, passionate about building scalable software products and intelligent applications.
+Computer Science and Engineering student at **Bennett University**, focused on building and shipping full-stack applications and intelligent software systems.
 
-I enjoy working at the intersection of **Software Engineering, Full Stack Development, and Artificial Intelligence**.
+- **Building:** Full-stack applications using Next.js, TypeScript and PostgreSQL.
+- **Learning:** AI/ML, Data Structures & Algorithms and System Design.
+- **Working with:** React, Next.js, FastAPI, Node.js and Supabase.
+- **Interested in:** Backend engineering, predictive analytics and scalable applications.
+- **Beyond code:** Technical Co-Head at Data Science Society, Bennett University.
 
-My focus is on transforming complex problems into practical, efficient, and user-centric solutions.
+**Education**
 
-- B.Tech CSE | Bennett University (2024–2028)
-- Interested in Software Development and Full Stack Engineering
-- Exploring AI/ML, Predictive Analytics and Intelligent Systems
-- Building scalable applications and RESTful APIs
-- Smart India Hackathon 2026 – 62nd Rank among 650+ teams
-- Technical Co-Head at Data Science Society, Bennett University
-
-### Open To
-
-- Software Development Internships
-- Full Stack / Backend Development
-- AI/ML Projects and Collaborations
-- Open Source Contributions
-
----
-
-## Tech Stack
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,postgres,mysql,supabase" />
-
-### Cloud, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,aws,vscode" />
-
----
-
-## AI / ML Expertise
-
-| Domain | Technologies | Focus |
-|:---|:---|:---|
-| Machine Learning | Python, Scikit-learn | Predictive Modeling |
-| Gradient Boosting | XGBoost | Classification & Risk Prediction |
-| Explainable AI | SHAP | Model Interpretability |
-| Data Analysis | Pandas, NumPy | Data Processing |
-| Data Visualization | Chart.js | Interactive Analytics |
-| AI Integration | FastAPI | ML Model Deployment |
-
----
-
-## Featured Projects
-
-<details>
-<summary><b>01. Bhoomi Sanket – Land Acquisition Delay Prediction System</b></summary>
-
-An AI-powered predictive analytics platform designed to identify and forecast delays in land acquisition projects using historical project and compensation data.
-
-**Key Features**
-- XGBoost-based delay prediction model.
-- Approximately 83% ROC-AUC for risk assessment.
-- GIS-based risk visualization and heatmaps.
-- Explainable AI insights using SHAP.
-- Project monitoring and actionable recommendations.
-
-| Category | Details |
+| | |
 |:---|:---|
-| Stack | Next.js, FastAPI, XGBoost, PostgreSQL |
-| Model | XGBoost Classifier |
-| Performance | ~83% ROC-AUC |
-| Security | API-based architecture |
-| Impact | Early identification of acquisition delays |
-| Repository | [GitHub](YOUR_BHOOMI_SANKET_REPO) |
-
-</details>
-
-<details>
-<summary><b>02. Samadhan – Civic Issue Tracker</b></summary>
-
-A web-based civic issue reporting platform that enables citizens to submit, track, and manage public grievances.
-
-**Key Features**
-- Civic complaint registration and tracking.
-- RESTful backend services.
-- Interactive maps using Leaflet.js and OpenStreetMap.
-- Analytics dashboards using Chart.js.
-- Complaint status and reporting insights.
-
-| Category | Details |
-|:---|:---|
-| Stack | Flask, SQLite, JavaScript, Leaflet.js |
-| Backend | REST APIs |
-| Visualization | Leaflet.js, Chart.js |
-| Security | Backend-based application architecture |
-| Impact | Simplified civic grievance management |
-| Repository | [GitHub](YOUR_SAMADHAN_REPO) |
-
-</details>
-
-<details>
-<summary><b>03. Trade Vision – AI Trading Platform</b></summary>
-
-A full-stack trading analytics platform designed to process market data and visualize trading insights through interactive dashboards.
-
-**Key Features**
-- Backend APIs for market data processing.
-- Trading analytics and insights.
-- Interactive dashboards.
-- Full-stack application architecture.
-
-| Category | Details |
-|:---|:---|
-| Stack | Next.js, FastAPI, PostgreSQL |
-| Backend | REST APIs |
-| Analytics | Trading Data Visualization |
-| Security | API-based architecture |
-| Impact | Simplified trading analytics |
-| Repository | [GitHub](YOUR_TRADE_VISION_REPO) |
-
-</details>
+| University | Bennett University |
+| Degree | B.Tech – Computer Science & Engineering |
+| Duration | August 2024 – June 2028 |
+| CGPA | 8.90 |
+| Location | Greater Noida, India |
 
 ---
 
-## Experience & Leadership
+## `02 / technical stack`
 
-### Technical Co-Head – Data Science Society (DSS)
-**Bennett University | August 2026 – Present**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,typescript,javascript,react,nextjs,html,css,tailwind,nodejs,fastapi,flask,postgres,mysql,supabase,git,github,githubactions,vercel,aws,vscode&perline=8"/>
+
+</div>
+
+### Core
+
+**Languages:** C++ · Java · Python · TypeScript · JavaScript · SQL
+
+**Frontend:** React · Next.js · HTML5 · CSS3 · Tailwind CSS
+
+**Backend & Data:** Node.js · FastAPI · Flask · PostgreSQL · MySQL · Supabase
+
+**Tools:** Git · GitHub · GitHub Actions · VS Code · Vercel
+
+**CS Fundamentals:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
+
+---
+
+## `03 / featured projects`
+
+### Bhoomi Sanket — Land Acquisition Delay Prediction System
+
+**SIH 2026 · Team Lead · 62nd Rank among 650+ teams**
+
+`Next.js` `TypeScript` `FastAPI` `XGBoost` `PostgreSQL`
+
+An AI-powered predictive analytics platform designed to identify and forecast land acquisition delays across infrastructure projects.
+
+- Developed an XGBoost-based prediction model achieving approximately 83% ROC-AUC.
+- Built risk assessment and project monitoring dashboards.
+- Integrated GIS-based visualization for geographical risk analysis.
+- Designed explainable AI insights and actionable recommendations.
+- Worked on delay prediction using historical project and compensation data.
+
+**Engineering focus:** Machine Learning · Predictive Analytics · GIS · Full Stack Development
+
+[Repository](https://github.com/Mayank-Sharma-05?tab=repositories)
+
+---
+
+### Samadhan — Civic Issue Reporting Platform
+
+**SIH 2025 · Team Lead**
+
+`Flask` `Python` `SQLite` `JavaScript` `Leaflet.js` `Chart.js`
+
+A civic issue reporting platform that enables citizens to submit, track and manage public grievances.
+
+- Developed RESTful backend services for complaint management.
+- Integrated Leaflet.js and OpenStreetMap for location-based reporting.
+- Built interactive analytics dashboards using Chart.js.
+- Implemented complaint tracking and reporting functionality.
+
+**Engineering focus:** Backend Development · REST APIs · Geospatial Visualization
+
+[Repository](https://github.com/Mayank-Sharma-05?tab=repositories)
+
+---
+
+### Trade Vision — AI Trading Platform
+
+`Next.js` `FastAPI` `PostgreSQL`
+
+A full-stack trading analytics platform focused on processing market data and visualizing trading insights.
+
+- Developed a full-stack application using Next.js and FastAPI.
+- Built backend APIs for market data processing and analysis.
+- Created interactive dashboards for trading insights and trends.
+- Designed a structured PostgreSQL database.
+
+**Engineering focus:** Full Stack Development · API Engineering · Data Visualization
+
+[Repository](https://github.com/Mayank-Sharma-05?tab=repositories)
+
+---
+
+## `04 / project snapshot`
+
+<div align="center">
+
+<a href="https://github.com/Mayank-Sharma-05">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Sharma-05&repo=YOUR_BHOOMI_REPO&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Mayank-Sharma-05">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Sharma-05&repo=YOUR_SAMADHAN_REPO&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## `05 / engineering signal`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Software_Engineering-Full_Stack-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-XGBoost-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend_Engineering-FastAPI-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Engineering-PostgreSQL-336791?style=for-the-badge"/>
+
+</div>
+
+| Engineering Area | Focus |
+|:---|:---|
+| Software Development | Full-stack applications |
+| Backend Engineering | APIs and server-side logic |
+| Machine Learning | Predictive modeling and XGBoost |
+| Data Engineering | Data processing and PostgreSQL |
+| Problem Solving | DSA and algorithmic thinking |
+| Product Engineering | Building practical solutions |
+
+---
+
+## `06 / leadership & impact`
+
+### Technical Co-Head — Data Science Society (DSS)
+
+**Bennett University · August 2026 – Present**
 
 - Lead and mentor a Junior Core Team of 25+ members.
 - Oversee technical initiatives and society operations.
-- Coordinate workshops, projects, hackathons and technical events.
+- Coordinate technical workshops, projects and hackathons.
 - Manage task allocation and team execution.
 
-**Skills:** Technical Leadership · Team Management · Project Coordination
+### Team Lead — Smart India Hackathon 2025
 
-### Team Lead – Smart India Hackathon 2025
 **September 2025**
 
 - Led a team of 6 members.
 - Managed project documentation and presentation preparation.
 - Coordinated video pitching and hackathon evaluation rounds.
 
-**Skills:** Team Leadership · Problem Solving · Project Management
+---
+
+## `07 / achievements & certifications`
+
+- **Smart India Hackathon 2026:** 62nd Rank among 650+ teams in the Inter-College Hackathon Round.
+- **Smart India Hackathon 2025:** Selected among Top 200 teams at Bennett University Internal Hackathon.
+- **AWS Academy:** Cloud Foundations Certification.
 
 ---
 
-## Achievements
-
-| Recognition | Details |
-|:---|:---|
-| Smart India Hackathon 2026 | 62nd Rank among 650+ teams in Inter-College Hackathon Round |
-| Smart India Hackathon 2025 | Selected among Top 200 teams at Bennett University Internal Hackathon |
-| AWS Academy | Cloud Foundations Certification |
-
----
-
-## Certifications
-
-### AWS
-- AWS Academy Cloud Foundations
-
-### Oracle
-- Certifications to be added
-
-### NPTEL
-- Certifications to be added
-
-### Cisco
-- Certifications to be added
-
----
-
-## Coding Profiles
+## `08 / github activity`
 
 <div align="center">
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma-05&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<a href="YOUR_GFG_URL">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODECHEF_URL">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma-05&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Sharma-05&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Sharma-05&theme=github-dark-blue&hide_border=true"/>
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Sharma-05&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Sharma-05&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## `09 / contribution graph`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mayank-Sharma-05&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-Sharma-05&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-Sharma-05&bg_color=0d1117&color=A78BFA&line=7B2CBF&point=C4B5FD&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Snake
+## `10 / contribution snake`
 
 <div align="center">
 
@@ -287,64 +237,47 @@ A full-stack trading analytics platform designed to process market data and visu
 
 ---
 
-## Current Focus
+## `11 / current focus`
 
 ```yaml
-Learning:
+currently_learning:
   - Data Structures & Algorithms
   - Advanced Machine Learning
   - System Design
   - Backend Engineering
 
-Building:
+currently_building:
   - AI-powered applications
   - Full Stack Web Applications
   - Predictive Analytics Systems
 
-Exploring:
-  - Explainable AI
-  - Cloud Computing
-  - Scalable Software Architecture
+interested_in:
+  - Software Engineering
+  - AI/ML Engineering
+  - Open Source Development
 
-Open_To:
-  - Software Engineering Internships
-  - AI/ML Collaborations
+open_to:
+  - Software Development Internships
+  - Technical Collaborations
   - Open Source Contributions
 ```
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
-I'm always interested in connecting with developers, exploring new technologies, and building impactful products.
+### BUILD. LEARN. ENGINEER.
 
-<a href="mailto:mayanksharma83169@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+*Turning ideas into practical software solutions.*
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://github.com/Mayank-Sharma-05">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:mayanksharma83169@gmail.com">EMAIL</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Mayank-Sharma-05">GITHUB</a>
+&nbsp; · &nbsp;
+<a href="YOUR_LINKEDIN_URL">LINKEDIN</a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=100&section=footer"/>
 
 </div>
-
----
-
-<div align="center">
-
-### "Building with purpose. Engineering with precision."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:4B0082,100:090014&height=120&section=footer"/>
-
-</div>
-
